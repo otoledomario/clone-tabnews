@@ -1,2 +1,2 @@
 # clone-tabnews
-Reprodução do tabnews pelo curso 
+Reprodução do tabnews pelo curso 'curso.dev' ministrado por Filipe Deschamps
